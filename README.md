@@ -1,2 +1,2 @@
 # RPP-OOPS
-This repo contain basic program of oops in python
+This repository contains basic program of oops in python do enjoy exploring it.
